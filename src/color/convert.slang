@@ -19,5 +19,5 @@ public float3 ycbcrToRgb(float3 sample, YCbCrEncoding encoding)
 
 public int converterRevision()
 {
-    return 100;
+    return 110;
 }
